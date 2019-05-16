@@ -4,3 +4,6 @@
 [submodule "flutter-desktop-embedding"]
 	path = flutter-desktop-embedding
 	url = https://github.com/beastoin/flutter-desktop-embedding.git
+[submodule "app"]
+	path = app
+	url = https://github.com/beastoin/tldr-comm.git
