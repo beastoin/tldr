@@ -6,4 +6,4 @@
 	url = https://github.com/beastoin/flutter-desktop-embedding.git
 [submodule "app"]
 	path = app
-	url = https://github.com/beastoin/tldr-comm.git
+	url = git@github.com:beastoin/tldr-comm.git
